@@ -25,13 +25,13 @@ data.  Then, process the data -- pick out only the pieces we want, and discard
 the rest (this requires lots of experimenting, not shown in the final code).
 This is all done in the notebook:
 
-    get_data.ipynb
+        get_data.ipynb
 
 3. Make a home-made library, to try to present the data in a cleaner way for
 coding club.  You can see the actual code for the `get(...)` and
 `show_data(...)` methods in:
 
-    coding_club.py
+        coding_club.py
 
 __Footnotes__
 1. https://developer.spotify.com/documentation/general/guides/authorization/client-credentials/
