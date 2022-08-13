@@ -103,3 +103,8 @@ Session.vim
 *.synctex.gz
 *.synctex.gz(busy)
 *.pdfsync
+
+# -------------------------------------------
+# Project-specific pattern exceptions
+# -------------------------------------------
+!media/*.png
